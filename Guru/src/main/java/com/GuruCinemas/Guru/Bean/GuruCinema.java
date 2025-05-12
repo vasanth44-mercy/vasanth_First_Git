@@ -18,6 +18,7 @@ import jakarta.persistence.Id;
 	    private Integer prize;
 	    private Integer seats;
 	    private String location;
+            private String city;
 
 	    // Default constructor
 	    public GuruCinema() {
