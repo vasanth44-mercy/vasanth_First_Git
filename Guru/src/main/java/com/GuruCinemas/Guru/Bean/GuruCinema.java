@@ -17,6 +17,7 @@ import jakarta.persistence.Id;
 	    private String language;
 	    private Integer prize;
 	    private Integer seats;
+            private Integer seatsnumber;
 	    private String location;
             private String city;
 
