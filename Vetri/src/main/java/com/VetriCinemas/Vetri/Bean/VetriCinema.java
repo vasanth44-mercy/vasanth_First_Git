@@ -15,7 +15,9 @@ public class VetriCinema {
 	private String language ;
 	private Integer prize;
 	private Integer seats ;
+        private Integer seatsNumber ;
 	private String location ;
+        private String city ;
 	
 	public VetriCinema() {
 	}
